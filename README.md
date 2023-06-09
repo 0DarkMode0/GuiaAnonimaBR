@@ -2,7 +2,7 @@
   <a href="https://github.com/0DarkMode0/GuiaAnonimoBR">
     <img src="https://cdn.discordapp.com/attachments/1080184319173206026/1116228979955863594/anonimo.png" width="160" height="160">
   </a>
-  <h1 align="center">Guia Anônimo BR</h1>
+  <h1 align="center">Guia Anônima BR</h1>
 </p>
 
 </br>
